@@ -18,6 +18,13 @@
     background-position: center;
     background-repeat: no-repeat;
     background-size: contain;
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   }
 
   .text {
@@ -25,6 +32,7 @@
     grid-row: 1 / span 2;
     background-color: transparent;
     color: aliceblue;
+    font-family:'Times New Roman', Times, serif;
   }
   .item1 {
     grid-column: 2 / span 1;
@@ -215,7 +223,7 @@
     grid-row: 7;
     background-color: #00803d;
     animation: shake 0.5s ease-in-out infinite 0s, glow 3s ease-in-out 0s,
-    flipAndEnlarge24 1s ease-in-out forwards 1.3s;
+    flipAndEnlarge24 1s ease-in-out forwards  1.3s;
     animation-play-state: paused;
   }
   .red:hover {

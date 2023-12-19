@@ -45,7 +45,7 @@
   .item2 {
     grid-column: 3 / span 2;
     grid-row: 1;
-    background-color: #00803d;
+    background-color: #029449;
     animation: shake 0.5s ease-in-out infinite 0s, glow 3s ease-in-out 0s,
     flipAndEnlarge2 1s ease-in-out forwards 1.3s;
     animation-play-state: paused;
@@ -61,7 +61,7 @@
   .item4 {
     grid-column: 1 / span 1;
     grid-row: 3;
-    background-color: #00803d;
+    background-color: #029449;
     animation: shake 0.5s ease-in-out infinite 0s, glow 3s ease-in-out 0s,
     flipAndEnlarge4 1s ease-in-out forwards 1.3s;
     animation-play-state: paused;
@@ -85,7 +85,7 @@
   .item7 {
     grid-column: 4 / span 1;
     grid-row: 2;
-    background-color: #00803d;
+    background-color: #029449;
     animation: shake 0.5s ease-in-out infinite 0s, glow 3s ease-in-out 0s,
     flipAndEnlarge7 1s ease-in-out forwards 1.3s;
     animation-play-state: paused;
@@ -93,7 +93,7 @@
   .item8 {
     grid-column: 5 / span 1;
     grid-row: 2;
-    background-color: #00803d;
+    background-color: #029449;
     animation: shake 0.5s ease-in-out infinite 0s, glow 3s ease-in-out 0s,
     flipAndEnlarge8 1s ease-in-out forwards 1.3s;
     animation-play-state: paused;
@@ -117,7 +117,7 @@
   .item11 {
     grid-column: 5 / span 1;
     grid-row: 3 / span 2;
-    background-color: #00803d;
+    background-color: #029449;
     animation: shake 0.5s ease-in-out infinite 0s, glow 3s ease-in-out 0s,
     flipAndEnlarge11 1s ease-in-out forwards 1.3s;
     animation-play-state: paused;
@@ -133,7 +133,7 @@
   .item13 {
     grid-column: 1 / span 1;
     grid-row: 5;
-    background-color: #00803d;
+    background-color: #029449;
     animation: shake 0.5s ease-in-out infinite 0s, glow 3s ease-in-out 0s,
     flipAndEnlarge13 1s ease-in-out forwards 1.3s;
     animation-play-state: paused;
@@ -149,7 +149,7 @@
   .item15 {
     grid-column: 3 / span 1;
     grid-row: 4 / span 2;
-    background-color: #00803d;
+    background-color: #029449;
     animation: shake 0.5s ease-in-out infinite 0s, glow 3s ease-in-out 0s,
     flipAndEnlarge15 1s ease-in-out forwards 1.3s;
     animation-play-state: paused;
@@ -181,7 +181,7 @@
   .item19 {
     grid-column: 2 / span 1;
     grid-row: 6;
-    background-color: #00803d;
+    background-color: #029449;
     animation: shake 0.5s ease-in-out infinite 0s, glow 3s ease-in-out 0s,
     flipAndEnlarge19 1s ease-in-out forwards 1.3s;
     animation-play-state: paused;
@@ -197,7 +197,7 @@
   .item21 {
     grid-column: 5 / span 1;
     grid-row: 6;
-    background-color: #00803d;
+    background-color: #029449;
     animation: shake 0.5s ease-in-out infinite 0s, glow 3s ease-in-out 0s,
     flipAndEnlarge21 1s ease-in-out forwards 1.3s;
     animation-play-state: paused;
@@ -205,7 +205,7 @@
   .item22 {
     grid-column: 2 / span 1;
     grid-row: 7;
-    background-color: #00803d;
+    background-color: #029449;
     animation: shake 0.5s ease-in-out infinite 0s, glow 3s ease-in-out 0s,
     flipAndEnlarge22 1s ease-in-out forwards 1.3s;
     animation-play-state: paused;
@@ -221,7 +221,7 @@
   .item24 {
     grid-column: 4 / span 2;
     grid-row: 7;
-    background-color: #00803d;
+    background-color: #029449;
     animation: shake 0.5s ease-in-out infinite 0s, glow 3s ease-in-out 0s,
     flipAndEnlarge24 1s ease-in-out forwards  1.3s;
     animation-play-state: paused;

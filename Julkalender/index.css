@@ -4,8 +4,8 @@
     background-color: transparent;
     padding: 10px;
     width: 40%;
-    margin: auto;
-    margin-top: 80px;
+    margin-left: auto;
+    margin-right: auto;
   }
 
   .grid-item {
